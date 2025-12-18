@@ -1,0 +1,7 @@
+{
+  "name": "CulinaryAI Fridge Assistant",
+  "description": "A smart kitchen companion that identifies fridge ingredients from photos and suggests healthy recipes with step-by-step audio guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
